@@ -3,8 +3,8 @@ import './App.css';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Nav from './components/Nav'
 import Footer from './components/footer'
-import About from './pages/about'
-import Experience from './pages/experience'
+import Projects from './pages/projects'
+import Contacts from './pages/contacts'
 import Home from './pages/index'
 
 function App() {
@@ -14,8 +14,8 @@ function App() {
         <Nav />
         <Routes>
           <Route path="/" exact element={<Home></Home>}></Route>
-          <Route path="/about" exact element={<About></About>}></Route>
-          <Route path="/experience" exact element={<Experience></Experience>}></Route>
+          <Route path="/projects" exact element={<Projects></Projects>}></Route>
+          <Route path="/contacts" exact element={<Contacts></Contacts>}></Route>
         </Routes>
       </div>
 
