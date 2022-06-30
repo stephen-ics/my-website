@@ -9,10 +9,33 @@ const projects = () => {
         title="CloseConnect"
         description="CloseConnect aims to increase diversity and inclusion by connecting people across the globe encouraging people of various cultures to celebrate their differences"
         subheading="Connecting strangers from across the world"
+        completedDate="sdsd"
+        imageSrc={Squirtle}
+      />
+
+      <ProjectSection
+        title="sdkjskdjskd"
+        description="ClosdkjdshkjdhksdseConnect aims to increase diversity and inclusion by connecting people across the globe encouraging people of various cultures to celebrate their differences"
+        subheading="Connecting strangers from across the world"
+        imageSrc={Squirtle}
+      />
+
+<ProjectSection
+        title="sdkjskdjskd"
+        description="ClosdkjdshkjdhksdseConnect aims to increase diversity and inclusion by connecting people across the globe encouraging people of various cultures to celebrate their differences"
+        subheading="Connecting strangers from across the world"
         imageSrc={Squirtle}
         
-      
       />
+
+<ProjectSection
+        title="sdkjskdjskd"
+        description="ClosdkjdshkjdhksdseConnect aims to increase diversity and inclusion by connecting people across the globe encouraging people of various cultures to celebrate their differences"
+        subheading="Connecting strangers from across the world"
+        imageSrc={Squirtle}
+      />
+
+
 
 
     </div>
